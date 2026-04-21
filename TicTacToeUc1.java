@@ -1,4 +1,4 @@
-public class TicTacToeUc1{
+public class TicTacToeUC1{
     static char[][] board = new char[3][3];
     public static void main(String[] args) {
         initializeBoard();
